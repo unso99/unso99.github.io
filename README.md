@@ -11,9 +11,9 @@ Python - PyCharm community edition - [link](http://www.jetbrains.com/pycharm/dow
 
 **서버환경**
 
-AWS의 EC2
+o AWS의 EC2
 
-베이스 이미지는 AWS Ubuntu 18.04 LTS AMI
+o 베이스 이미지는 AWS Ubuntu 18.04 LTS AMI
 
 
 
