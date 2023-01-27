@@ -2,7 +2,7 @@
 
 개발언어와 코드 에디터
 
-o java - JDK 1.8
+o java - JDK 1.8<h>
 o Python - python 3.6.5
 
 java, Scala - IntelliJ IDEA community edtion - [link](https://www.jetbrains.com/idea/download)
